@@ -4,7 +4,7 @@ Author: Sian Culligan
 
 Links and Resources
 GH PR:
-- https://github.com/SianCulligan/401-lab09/pull/1
+- https://github.com/SianCulligan/401-lab09/pull/2
 
 Heroku Link: 
 - https://git.heroku.com/seattle401lab08.git
